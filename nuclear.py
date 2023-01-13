@@ -11,8 +11,6 @@ nuclear_codes = [20667,6929,5275,18507,52262]
 
 
 while True:
-    print("2.- Salir")
-    option = int(input())
    
   
     init()
